@@ -1,0 +1,19 @@
+body {
+	background-color: #ff510d;
+}
+
+.title {
+	background-color: black;
+	color: #ff510d;
+	font-family: arial;
+}
+.subhead {
+	color : white;
+	background-color: #ff510d;
+	font-family: arial;
+}
+.content {
+	color : white;
+	background-color: #ff510d;
+	font-family: arial;
+}
